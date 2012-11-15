@@ -11,6 +11,6 @@
 
 <?php echo "testing php"; ?>
 <h1>Messing with Git again</h1>
-<p>Lerning as i go 21:50</p>
+<p>Lerning as i go 22:35</p>
 </body>
 </html>
