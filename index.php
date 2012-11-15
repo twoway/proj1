@@ -4,6 +4,8 @@
 <title>Learning Git</title>
 </head>
 <body>
+
+<?php echo "testing php"; ?>
 <h1>Messing with Git again</h1>
 <p>Lerning as i go 21:50</p>
 </body>
