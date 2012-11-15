@@ -12,5 +12,6 @@
  * @var bool
  */
 echo "string";
+echo "string2";
 
 ?>
