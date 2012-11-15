@@ -13,5 +13,6 @@
 <h1>Messing with Git again</h1>
 <p>Lerning as i go 22:50</p>
 <p>Local push triggers auto remote pull after chmod and umask 022</p>
+<p>New ssh strategy</p>
 </body>
 </html>
