@@ -15,6 +15,7 @@
 <p>Local push triggers auto remote pull after chmod and umask 022</p>
 <p>New ssh strategy</p>
 <p>Success!</p>
+<p>Getting Gitty with it!</p>
 
 </body>
 </html>
