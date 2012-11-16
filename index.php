@@ -14,7 +14,7 @@
 <p>Lerning as i go 22:50</p>
 <p>Local push triggers auto remote pull after chmod and umask 022</p>
 <p>New ssh strategy</p>
-<p>Success!</p>
+<p>Success! Github edit of file</p>
 
 </body>
 </html>
