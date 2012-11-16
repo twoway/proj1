@@ -1,0 +1,25 @@
+<?php
+/* ,ldslds
+*/
+?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Learning Git</title>
+</head>
+<body>
+
+<?php echo "testing php"; ?>
+<h1>Messing with Git again</h1>
+<p>Lerning as i go 22:50</p>
+<p>Local push triggers auto remote pull after chmod and umask 022</p>
+<p>New ssh strategy</p>
+<<<<<<< HEAD
+<p>Success!</p>
+<p>Getting Gitty with it!</p>
+=======
+<p>Success! Github edit of file</p>
+>>>>>>> ffad73c40998d6d3c0a1f7b977a8301fe95a229a
+
+</body>
+</html>
