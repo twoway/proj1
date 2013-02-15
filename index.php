@@ -17,6 +17,7 @@
 <p>Success!</p>
 <p>Getting Gitty with it!</p>
 <p>Fixing bug in dev branch for testing</p>
+<p>git .ignore file </p>
 
 
 </body>
